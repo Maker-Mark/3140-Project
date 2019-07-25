@@ -1,6 +1,4 @@
-# cisc3140-su19-project
 
-This is the repository for the group project in CISC 3140 class at Brooklyn College.
 
 **Requirements**
 
